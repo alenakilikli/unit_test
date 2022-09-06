@@ -4,28 +4,108 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5382ef7-ad33-484f-b32e-1a38041b2527" name="Changes" comment="" />
+    <list default="true" id="e5382ef7-ad33-484f-b32e-1a38041b2527" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DemoTestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DemoTestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TestResultStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TestResultStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/annotations/AfterAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/annotations/AfterAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/annotations/AfterEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/annotations/AfterEach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/annotations/BeforeAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/annotations/BeforeAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/annotations/BeforeEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/annotations/BeforeEach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/annotations/DisplayName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/annotations/DisplayName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/annotations/FileResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/annotations/FileResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/annotations/JsonResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/annotations/JsonResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/annotations/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/annotations/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/annotations/XmlResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/annotations/XmlResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/file_pakage/FileProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/file_pakage/FileProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/file_pakage/TestAnnotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/file_pakage/TestAnnotations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/resource_files/fileResources.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/resource_files/fileResources.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2ED9IwaYUpMML6rfntRivkTAUan" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/java/TelraJavaProjects/GitBashProjects/paiwise_product-unitests&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.file_pakage" />
+      <recent name="org.example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\unit_test\src\main\java\org\example\annotations\resources" />
+      <recent name="E:\unit_test\src\main\java\org\example\file_pakage" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="unit_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.TestRunner" />
+      <module name="unit_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,8 +114,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662119214222</updated>
+      <workItem from="1662119215968" duration="15604000" />
+      <workItem from="1662289083474" duration="10518000" />
+      <workItem from="1662374517518" duration="28000" />
+      <workItem from="1662452971934" duration="9761000" />
+      <workItem from="1662479549434" duration="1966000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
